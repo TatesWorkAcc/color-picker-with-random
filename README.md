@@ -1,6 +1,5 @@
 # color-picker-with-random
 Project I made that helped me understand how to manipulate css with javascript.
-
 Default ![example 1](https://github.com/user-attachments/assets/49312c09-d9a2-4a8c-93a4-ddedbd010580)
 Green ![example 2](https://github.com/user-attachments/assets/9e4e5c6f-57e6-462c-9b72-97eddc3661af)
 Red ![example 3](https://github.com/user-attachments/assets/eb6a2f9e-61b8-4c8f-ae5b-411e5d3c2afd)
