@@ -1,0 +1,16 @@
+#Green{
+    background-color: green;
+}
+#Red{
+    background-color: red;
+}
+#Blue{
+    background-color: blue;
+}
+/* above are the button colors */
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+}
